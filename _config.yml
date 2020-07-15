@@ -2,8 +2,7 @@
 
 remote_theme: daattali/beautiful-jekyll
 
-url: "https://secdev.github.io"
-baseurl: ""
+baseurl: "secdev.github.io"
 
 title: Scapy
 description: Scapy - the Python-based interactive packet manipulation program & library.
